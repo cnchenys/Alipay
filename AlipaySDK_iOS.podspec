@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Alipay_iOS"
+  s.name         = "AlipaySDK_iOS"
   s.version      = "15.5.0"
   s.summary      = "支付宝支付SDK"
   s.homepage     = "http://code.smartstudy.com/chenyusen/SSRobot-swift"
